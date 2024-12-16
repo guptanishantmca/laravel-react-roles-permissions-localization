@@ -1,0 +1,11 @@
+{
+    "title": "Käyttäjät",
+    "users_list": "Käyttäjäluettelo",
+    "ID": "ID",
+    "Name": "Nimi",
+    "Email": "Sähköposti",
+    "Joined": "Liittynyt",
+    "edit" : "Muokkaa",
+    "delete" : "Poista",
+    "add_user" : "Lisää käyttäjä"
+}
